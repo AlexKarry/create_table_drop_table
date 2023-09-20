@@ -1,6 +1,6 @@
 import sqlite3
 
-db_filename = '/Users/alexkarry/Desktop/FOLDERS/Programming/Python/Advanced_Python_NYU/python_data_apy/session_02_working_files/session_2.db'
+db_filename = '../session_2.db'
 
 conn = sqlite3.connect(db_filename)
 
